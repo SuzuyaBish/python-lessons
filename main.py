@@ -20,3 +20,6 @@ if result:
     print("Target in list of numbers!")
 else:
     print("Target not in list of numbers!")
+
+
+# WHATS UP BITCH
